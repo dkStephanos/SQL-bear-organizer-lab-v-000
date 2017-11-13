@@ -1,25 +1,16 @@
 INSERT INTO students (name, grade, gpa, tardies)
     VALUES ("Mr. Chocolate", 11, "M", "Brown", "Angry", true);
 INSERT INTO students (name, grade, gpa, tardies)
-    VALUES ("Kareem", 10, 2.4, 12);
+    VALUES ("Rowdy", 11, "M", "Brown", "Angry", true);
 INSERT INTO students (name, grade, gpa, tardies)
-    VALUES ("Zak", 12, 4.0, 0);
+    VALUES ("Tabitha", 11, "M", "Brown", "Angry", true);
 INSERT INTO students (name, grade, gpa, tardies)
-    VALUES ("Kim", 11, 2.0, 9);
+    VALUES ("Sergeant Brown", 11, "M", "Brown", "Angry", true);
 INSERT INTO students (name, grade, gpa, tardies)
-    VALUES ("Bob", 10, 1.9, 17);
+    VALUES ("Melissa", 11, "M", "Brown", "Angry", true);
 INSERT INTO students (name, grade, gpa, tardies)
-    VALUES ("Stef", 9, 2.5, 2);
+    VALUES ("Grinch", 11, "M", "Brown", "Angry", true);
 INSERT INTO students (name, grade, gpa, tardies)
-    VALUES ("George", 9, 3.9, 1);
+    VALUES ("Wendy", 11, "M", "Brown", "Angry", true);
 INSERT INTO students (name, grade, gpa, tardies)
-    VALUES ("Daryl", 9, 3.5, 5);
-
-    Mr. Chocolate
-Rowdy
-Tabitha
-Sergeant Brown
-Melissa
-Grinch
-Wendy
-unnamed
+    VALUES (NULL, 11, "M", "Brown", "Angry", true);
