@@ -20,10 +20,7 @@ end
 
 def selects_most_prominent_color_and_returns_with_count
   "SELECT color, COUNT(color) FROM bears GROUP BY COUNT(color) ORDER BY COUNT(color) ASC LIMIT 1"
-  SELECT Group, COUNT(*)
-FROM table
-GROUP BY Group
-ORDER BY COUNT(*) DESC
+  
 end
 
 def counts_number_of_bears_with_goofy_temperaments
